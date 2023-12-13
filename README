@@ -1,0 +1,3 @@
+Mis juegos es una aplicacion para poder ver los juegos que tu quieres y los juegos que tienes
+
+Tienes que hacer un MVC funcional (sólo un método main estático) Además, debes implementar que tu Layout permita que pongas un JLabel en la Cabecera con el nombre del programa, que la ventana principal tenga nombre y que lance una ventana de imitación de carga de unos segundos.
